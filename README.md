@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on web
 - 📫 How to reach me ...
-- 😄 Pronouns: Zaza..
+- 😄 Pronouns: Zaza
 
 
 <!---
