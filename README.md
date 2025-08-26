@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zazaLaLicorne
-- 👀 I’m interested in flower
-- 🌱 I’m currently learning react
+- 👀 I’m interested in flower, pearl and macrame jewelry
+- 🌱 I’m currently learning react, next, google cloud, web development
 - 💞️ I’m looking to collaborate on web
 - 📫 How to reach me ...
 - 😄 Pronouns: Zaza
